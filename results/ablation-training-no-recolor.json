@@ -1,0 +1,6016 @@
+{
+  "tasks": 1000,
+  "test_inputs": 1076,
+  "correct_inputs": 33,
+  "output_accuracy": 0.03066914498141264,
+  "fully_correct_tasks": 27,
+  "task_accuracy": 0.027,
+  "training_fit_coverage": 26,
+  "elapsed_seconds": 20.8592,
+  "details": [
+    {
+      "id": "00576224",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "007bbfb7",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "009d5c81",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "00d62c1b",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "00dbd492",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "017c7c7b",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "025d127b",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "03560426",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "045e512c",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "0520fde7",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "05269061",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "05a7bcf2",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "05f2a901",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "0607ce86",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "0692e18c",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "06df4c85",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "070dd51e",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "08ed6ac7",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "09629e4f",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "0962bcdd",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "09c534e7",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "0a1d4ef5",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "0a2355a6",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "0a938d79",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "0b148d64",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "0b17323b",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "0bb8deee",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "0becf7df",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "0c786b71",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "0c9aba6e",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "0ca9ddb6",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "0d3d703e",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "0d87d2a6",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "0e206a2e",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "0e671a1a",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "0f63c0b9",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "103eff5b",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "10fcaaa3",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "11852cab",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "1190bc91",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "1190e5a7",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "11dc524f",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "11e1fe23",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "12422b43",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "12997ef3",
+      "correct_inputs": 0,
+      "test_inputs": 2,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "12eac192",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "13713586",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "137eaa0f",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "137f0df0",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "13f06aa5",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "140c817e",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "14754a24",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "1478ab18",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "14b8e18c",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "150deff5",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "15113be4",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "15660dd6",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "15663ba9",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "15696249",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "17829a00",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "178fcbfb",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "17b80ad2",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "17b866bd",
+      "correct_inputs": 0,
+      "test_inputs": 2,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "17cae0c1",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "18286ef8",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "182e5d0f",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "18419cfa",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "18447a8d",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "184a9768",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "195ba7dc",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "1990f7a8",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "19bb5feb",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "1a07d186",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "1a244afd",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "1a2e2828",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "1a6449f1",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "1acc24af",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "1b2d62fb",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "1b59e163",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "1b60fb0c",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "1b8318e3",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "1be83260",
+      "correct_inputs": 0,
+      "test_inputs": 2,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "1bfc4729",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "1c02dbbe",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "1c0d0a4b",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "1c56ad9f",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "1c786137",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "1caeab9d",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "1cf80156",
+      "correct_inputs": 1,
+      "test_inputs": 1,
+      "consistent_hypotheses": 3
+    },
+    {
+      "id": "1d0a4b61",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "1d398264",
+      "correct_inputs": 0,
+      "test_inputs": 2,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "1d61978c",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "1da012fc",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "1e0a9b12",
+      "correct_inputs": 1,
+      "test_inputs": 1,
+      "consistent_hypotheses": 1
+    },
+    {
+      "id": "1e32b0e9",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "1e5d6875",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "1e81d6f9",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "1efba499",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "1f0c79e5",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "1f642eb9",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "1f85a75f",
+      "correct_inputs": 1,
+      "test_inputs": 1,
+      "consistent_hypotheses": 2
+    },
+    {
+      "id": "1f876c06",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "1fad071e",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "2013d3e2",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "2037f2c7",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "2072aba6",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "20818e16",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "20981f0e",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "20fb2937",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "212895b5",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "21f83797",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "2204b7a8",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "22168020",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "22208ba4",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "22233c11",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "22425bda",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "22806e14",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "2281f1f4",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "228f6490",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "22a4bbc2",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "22eb0ac0",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "230f2e48",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "234bbc79",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "23581191",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "239be575",
+      "correct_inputs": 1,
+      "test_inputs": 2,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "23b5c85d",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "25094a63",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "252143c9",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "253bf280",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "2546ccf6",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "256b0a75",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "25c199f5",
+      "correct_inputs": 0,
+      "test_inputs": 2,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "25d487eb",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "25d8a9c8",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "25e02866",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "25ff71a9",
+      "correct_inputs": 0,
+      "test_inputs": 2,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "2601afb7",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "264363fd",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "2685904e",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "2697da3f",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "272f95fa",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "2753e76c",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "278e5215",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "27a28665",
+      "correct_inputs": 0,
+      "test_inputs": 3,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "27a77e38",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "27f8ce4f",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "281123b4",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "28bf18c6",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "28e73c20",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "292dd178",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "29623171",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "29700607",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "29c11459",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "2a28add5",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "2a5f8217",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "2b01abd0",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "2b9ef948",
+      "correct_inputs": 0,
+      "test_inputs": 2,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "2bcee788",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "2bee17df",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "2c0b0aff",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "2c608aff",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "2c737e39",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "2ccd9fef",
+      "correct_inputs": 0,
+      "test_inputs": 2,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "2dc579da",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "2dd70a9a",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "2de01db2",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "2dee498d",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "2e65ae53",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "2f0c5170",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "2f767503",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "2faf500b",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "305b1341",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "30f42897",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "310f3251",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "3194b014",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "319f2597",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "31aa019c",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "31adaf00",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "31d5ba1a",
+      "correct_inputs": 0,
+      "test_inputs": 2,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "320afe60",
+      "correct_inputs": 0,
+      "test_inputs": 2,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "321b1fc6",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "32597951",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "32e9702f",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "33067df9",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "332202d5",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "332efdb3",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "3345333e",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "337b420f",
+      "correct_inputs": 0,
+      "test_inputs": 2,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "3391f8c0",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "33b52de3",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "3428a4f5",
+      "correct_inputs": 0,
+      "test_inputs": 2,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "342ae2ed",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "342dd610",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "3490cc26",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "34b99a2b",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "34cfa167",
+      "correct_inputs": 0,
+      "test_inputs": 2,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "351d6448",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "358ba94e",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "3618c87e",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "363442ee",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "36d67576",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "36fdfd69",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "37ce87bb",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "37d3e8b2",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "3906de3d",
+      "correct_inputs": 1,
+      "test_inputs": 1,
+      "consistent_hypotheses": 1
+    },
+    {
+      "id": "396d80d7",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "3979b1a8",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "39a8645d",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "39e1d7f9",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "3a301edc",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "3aa6fb7a",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "3ac3eb23",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "3ad05f52",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "3af2c5a8",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "3b4c2228",
+      "correct_inputs": 0,
+      "test_inputs": 2,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "3bd292e8",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "3bd67248",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "3bdb4ada",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "3befdf3e",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "3c9b0459",
+      "correct_inputs": 1,
+      "test_inputs": 1,
+      "consistent_hypotheses": 9
+    },
+    {
+      "id": "3cd86f4f",
+      "correct_inputs": 0,
+      "test_inputs": 3,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "3d31c5b3",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "3d588dc9",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "3d6c6e23",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "3de23699",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "3e980e27",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "3eda0437",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "3ee1011a",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "3f23242b",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "3f7978a0",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "4093f84a",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "40f6cd08",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "412b6263",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "414297c0",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "41ace6b5",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "41e4d17e",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "423a55dc",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "4258a5f9",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "4290ef0e",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "42918530",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "42a15761",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "42a50994",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "42f14c03",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "42f83767",
+      "correct_inputs": 0,
+      "test_inputs": 2,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "4347f46a",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "4364c1c4",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "444801d8",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "445eab21",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "447fd412",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "44d8ac46",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "44f52bb0",
+      "correct_inputs": 1,
+      "test_inputs": 2,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "4522001f",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "456873bc",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "45737921",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "458e3a53",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "45bbe264",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "4612dd53",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "46442a0e",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "465b7d93",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "469497ad",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "46c35fc7",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "46f33fce",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "470c91de",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "47c1f68c",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "48131b3c",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "484b58aa",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "4852f2fa",
+      "correct_inputs": 0,
+      "test_inputs": 2,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "48634b99",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "48d8fb45",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "48f8583b",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "4938f0c2",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "494ef9d7",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "496994bd",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "49d1d64f",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "4a1cacc2",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "4acc7107",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "4b6b68e5",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "4be741c5",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "4c177718",
+      "correct_inputs": 0,
+      "test_inputs": 2,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "4c4377d9",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "4c5c2cf0",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "4cd1b7b2",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "4df5b0ae",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "4e45f183",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "4e469f39",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "4e7e0eb9",
+      "correct_inputs": 0,
+      "test_inputs": 2,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "4f537728",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "4ff4c9da",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "5034a0b5",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "505fff84",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "506d28a5",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "50846271",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "508bd3b6",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "50a16a69",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "50aad11f",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "50c07299",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "50cb2852",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "50f325b5",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "5117e062",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "5168d44c",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "516b51b7",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "5207a7b5",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "522fdd07",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "52364a65",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "5289ad53",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "52df9849",
+      "correct_inputs": 0,
+      "test_inputs": 2,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "52fd389e",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "538b439f",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "539a4f51",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "53b68214",
+      "correct_inputs": 0,
+      "test_inputs": 2,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "543a7ed5",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "54d82841",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "54d9e175",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "54db823b",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "54dc2872",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "55059096",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "551d5bf1",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "5521c0d9",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "5582e5ca",
+      "correct_inputs": 1,
+      "test_inputs": 1,
+      "consistent_hypotheses": 1
+    },
+    {
+      "id": "5587a8d0",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "5614dbcf",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "5623160b",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "56dc2b01",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "56ff96f3",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "5751f35e",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "575b1a71",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "5783df64",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "5792cb4d",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "57aa92db",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "57edb29d",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "5833af48",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "58743b76",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "58c02a16",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "58e15b12",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "59341089",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "5a5a2103",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "5a719d11",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "5ad4f10b",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "5ad8a7c0",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "5adee1b2",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "5af49b42",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "5b37cb25",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "5b526a93",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "5b692c0f",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "5b6cbef5",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "5bd6f4ac",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "5c0a986e",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "5c2c9af4",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "5d2a5c43",
+      "correct_inputs": 0,
+      "test_inputs": 2,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "5d588b4d",
+      "correct_inputs": 0,
+      "test_inputs": 2,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "5daaa586",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "5e6bbc0b",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "5ecac7f7",
+      "correct_inputs": 0,
+      "test_inputs": 3,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "5ffb2104",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "60a26a3e",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "60b61512",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "60c09cac",
+      "correct_inputs": 1,
+      "test_inputs": 1,
+      "consistent_hypotheses": 1
+    },
+    {
+      "id": "60d73be6",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "6150a2bd",
+      "correct_inputs": 1,
+      "test_inputs": 1,
+      "consistent_hypotheses": 10
+    },
+    {
+      "id": "6165ea8f",
+      "correct_inputs": 0,
+      "test_inputs": 2,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "623ea044",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "626c0bcc",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "62ab2642",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "62b74c02",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "62c24649",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "6350f1f4",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "63613498",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "639f5a19",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "642248e4",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "642d658d",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "6430c8c4",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "6455b5f5",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "64a7c07e",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "652646ff",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "662c240a",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "668eec9a",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "66ac4c3b",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "66e6c45b",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "66f2d22f",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "67385a82",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "673ef223",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "67636eac",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "6773b310",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "67a3c6ac",
+      "correct_inputs": 1,
+      "test_inputs": 1,
+      "consistent_hypotheses": 10
+    },
+    {
+      "id": "67a423a3",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "67c52801",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "67e8384a",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "681b3aeb",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "6855a6e4",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "689c358e",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "68b16354",
+      "correct_inputs": 1,
+      "test_inputs": 1,
+      "consistent_hypotheses": 11
+    },
+    {
+      "id": "68b67ca3",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "68bc2e87",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "692cd3b6",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "694f12f3",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "695367ec",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "696d4842",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "69889d6e",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "6a11f6da",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "6a1e5592",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "6a980be1",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "6aa20dc0",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "6ad5bdfd",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "6b9890af",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "6bcdb01e",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "6c434453",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "6ca952ad",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "6cbe9eb8",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "6cdd2623",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "6cf79266",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "6d0160f0",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "6d0aefbc",
+      "correct_inputs": 1,
+      "test_inputs": 1,
+      "consistent_hypotheses": 1
+    },
+    {
+      "id": "6d1d5c90",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "6d58a25d",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "6d75e8bb",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "6df30ad6",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "6e02f1e3",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "6e19193c",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "6e82a1ae",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "6ea4a07e",
+      "correct_inputs": 0,
+      "test_inputs": 2,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "6ecd11f4",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "6f473927",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "6f8cd79b",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "6fa7a44f",
+      "correct_inputs": 1,
+      "test_inputs": 1,
+      "consistent_hypotheses": 1
+    },
+    {
+      "id": "6ffe8f07",
+      "correct_inputs": 0,
+      "test_inputs": 2,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "7039b2d7",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "705a3229",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "712bf12e",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "72207abc",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "72322fa7",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "72a961c9",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "72ca375d",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "73182012",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "73c3b0d8",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "73ccf9c2",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "7447852a",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "7468f01a",
+      "correct_inputs": 1,
+      "test_inputs": 1,
+      "consistent_hypotheses": 1
+    },
+    {
+      "id": "746b3537",
+      "correct_inputs": 1,
+      "test_inputs": 1,
+      "consistent_hypotheses": 1
+    },
+    {
+      "id": "74dd1130",
+      "correct_inputs": 1,
+      "test_inputs": 1,
+      "consistent_hypotheses": 9
+    },
+    {
+      "id": "753ea09b",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "758abdf0",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "759f3fd3",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "75b8110e",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "760b3cac",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "762cd429",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "770cc55f",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "776ffc46",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "77fdfe62",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "780d0b14",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "782b5218",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "7837ac64",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "78e78cff",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "79369cc6",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "794b24be",
+      "correct_inputs": 1,
+      "test_inputs": 2,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "7953d61e",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "79cce52d",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "7acdf6d3",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "7b6016b9",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "7b7f7511",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "7bb29440",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "7c008303",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "7c8af763",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "7c9b52a0",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "7d18a6fb",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "7d1f7ee8",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "7d419a02",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "7d7772cc",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "7ddcd7ec",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "7df24a62",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "7e02026e",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "7e0986d6",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "7e2bad24",
+      "correct_inputs": 0,
+      "test_inputs": 2,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "7e4d4f7c",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "7e576d6e",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "7ec998c9",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "7ee1c6ea",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "7f4411dc",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "7fe24cdd",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "80214e03",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "80af3007",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "810b9b61",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "817e6c09",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "81c0276b",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "825aa9e9",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "82819916",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "83302e8f",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "833966f4",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "833dafe3",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "834ec97d",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "83b6b474",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "83eb0a57",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "8403a5d5",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "84551f4c",
+      "correct_inputs": 0,
+      "test_inputs": 2,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "845d6e51",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "846bdb03",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "84ba50d3",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "84db8fc4",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "84f2aca1",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "855e0971",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "8597cfd7",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "85b81ff1",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "85c4e7cd",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "85fa5666",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "8618d23e",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "868de0fa",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "8719f442",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "8731374e",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "878187ab",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "87ab05b8",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "880c1354",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "88207623",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "8886d717",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "88a10436",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "88a62173",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "890034e9",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "891232d6",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "896d5239",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "8a004b2b",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "8a371977",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "8a6d367c",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "8abad3cf",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "8b28cd80",
+      "correct_inputs": 0,
+      "test_inputs": 2,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "8ba14f53",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "8be77c9e",
+      "correct_inputs": 1,
+      "test_inputs": 1,
+      "consistent_hypotheses": 1
+    },
+    {
+      "id": "8cb8642d",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "8d5021e8",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "8d510a79",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "8dab14c2",
+      "correct_inputs": 0,
+      "test_inputs": 4,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "8dae5dfc",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "8e1813be",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "8e2edd66",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "8e301a54",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "8e5a5113",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "8eb1be9a",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "8ee62060",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "8efcae92",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "8f2ea7aa",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "8fbca751",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "8fff9e47",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "902510d5",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "90347967",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "90c28cc7",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "90f3ed37",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "9110e3c5",
+      "correct_inputs": 1,
+      "test_inputs": 2,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "913fb3ed",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "91413438",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "91714a58",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "9172f3a0",
+      "correct_inputs": 1,
+      "test_inputs": 1,
+      "consistent_hypotheses": 1
+    },
+    {
+      "id": "917bccba",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "928ad970",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "92e50de0",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "9344f635",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "9356391f",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "93b4f4b3",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "93b581b8",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "93c31fbe",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "94133066",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "941d9a10",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "94414823",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "9473c6fb",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "94be5b80",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "94f9d214",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "952a094c",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "9565186b",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "95755ff2",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "95990924",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "95a58926",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "963c33f8",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "963e52fc",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "963f59bc",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "96a8c0cd",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "9720b24f",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "97239e3d",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "973e499e",
+      "correct_inputs": 0,
+      "test_inputs": 2,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "9772c176",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "97999447",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "97a05b5b",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "97c75046",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "981add89",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "9841fdad",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "984d8a3e",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "985ae207",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "98c475bf",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "98cf29f8",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "992798f6",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "99306f82",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "995c5fa3",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "9968a131",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "996ec1f3",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "99b1bc43",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "99caaf76",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "99fa7670",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "9a4bb226",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "9aec4887",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "9af7a82c",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "9b2a60aa",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "9b30e358",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "9b365c51",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "9b4c17c4",
+      "correct_inputs": 0,
+      "test_inputs": 2,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "9b5080bb",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "9ba4a9aa",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "9bebae7a",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "9c1e755f",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "9c56f360",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "9caba7c3",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "9caf5b84",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "9d9215db",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "9ddd00f0",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "9def23fe",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "9dfd6313",
+      "correct_inputs": 1,
+      "test_inputs": 1,
+      "consistent_hypotheses": 11
+    },
+    {
+      "id": "9edfc990",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "9f236235",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "9f27f097",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "9f41bd9c",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "9f5f939b",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "9f669b64",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "9f8de559",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "a04b2602",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "a096bf4d",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "a09f6c25",
+      "correct_inputs": 0,
+      "test_inputs": 2,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "a1570a43",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "a1aa0c1e",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "a2d730bd",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "a2fd1cf0",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "a3325580",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "a3f84088",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "a406ac07",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "a416b8f3",
+      "correct_inputs": 1,
+      "test_inputs": 1,
+      "consistent_hypotheses": 1
+    },
+    {
+      "id": "a416fc5b",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "a48eeaf7",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "a5313dff",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "a57f2f04",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "a59b95c0",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "a5f85a15",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "a61ba2ce",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "a61f2674",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "a644e277",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "a64e4611",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "a65b410d",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "a680ac02",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "a68b268e",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "a6953f00",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "a699fb00",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "a740d043",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "a78176bb",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "a79310a0",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "a834deea",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "a85d4709",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "a8610ef7",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "a87f7484",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "a8c38be5",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "a8d7556c",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "a934301b",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "a9f96cdd",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "aa18de87",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "aa300dc3",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "aa62e3f4",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "aab50785",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "aabf363d",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "aaecdb9a",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "aaef0977",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "aba27056",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "abbfd121",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "ac0a08a4",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "ac0c2ac3",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "ac0c5833",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "ac2e8ecf",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "ac3e2b04",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "ac605cbb",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "ac6f9922",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "ad173014",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "ad38a9d0",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "ad3b40cf",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "ad7e01d0",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "ae3edfdc",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "ae4f1146",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "ae58858e",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "aedd82e4",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "aee291af",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "af24b4cc",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "af726779",
+      "correct_inputs": 0,
+      "test_inputs": 3,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "af902bf9",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "afe3afe9",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "b0722778",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "b0c4d837",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "b0f4d537",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "b15fca0b",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "b190f7f5",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "b1948b0a",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "b1986d4b",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "b1fc8b8e",
+      "correct_inputs": 1,
+      "test_inputs": 2,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "b20f7c8b",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "b230c067",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "b25e450b",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "b27ca6d3",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "b2862040",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "b2bc3ffd",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "b457fec5",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "b4a43f3b",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "b527c5c6",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "b548a754",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "b5bb5719",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "b60334d2",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "b6afb2da",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "b71a7747",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "b7249182",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "b7256dcd",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "b745798f",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "b74ca5d1",
+      "correct_inputs": 0,
+      "test_inputs": 2,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "b775ac94",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "b782dc8a",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "b7955b3c",
+      "correct_inputs": 0,
+      "test_inputs": 2,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "b7999b51",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "b7cb93ac",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "b7f8a4d8",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "b7fb29bc",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "b8825c91",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "b8cdaf2b",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "b91ae062",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "b942fd60",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "b94a9452",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "b9630600",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "b9b7f026",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "ba1aa698",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "ba26e723",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "ba97ae07",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "ba9d41b8",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "bae5c565",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "baf41dbf",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "bb43febb",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "bb52a14b",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "bbb1b8b6",
+      "correct_inputs": 0,
+      "test_inputs": 2,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "bbc9ae5d",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "bc1d5164",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "bc4146bd",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "bc93ec48",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "bcb3040b",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "bd14c3bf",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "bd283c4a",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "bd4472b8",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "bd5af378",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "bda2d7a6",
+      "correct_inputs": 0,
+      "test_inputs": 2,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "bdad9b1f",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "be03b35f",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "be94b721",
+      "correct_inputs": 1,
+      "test_inputs": 1,
+      "consistent_hypotheses": 2
+    },
+    {
+      "id": "beb8660c",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "bf32578f",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "bf699163",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "bf89d739",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "c074846d",
+      "correct_inputs": 0,
+      "test_inputs": 2,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "c0f76784",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "c1990cce",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "c1d99e64",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "c3202e5a",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "c35c1b4c",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "c3e719e8",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "c3fa4749",
+      "correct_inputs": 0,
+      "test_inputs": 2,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "c444b776",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "c48954c1",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "c4d1a9ae",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "c59eb873",
+      "correct_inputs": 1,
+      "test_inputs": 1,
+      "consistent_hypotheses": 1
+    },
+    {
+      "id": "c6141b15",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "c61be7dc",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "c62e2108",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "c64f1187",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "c658a4bd",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "c6e1b8da",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "c7d4e6ad",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "c803e39c",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "c87289bb",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "c8b7cc0f",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "c8cbb738",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "c8f0f002",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "c909285e",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "c920a713",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "c92b942c",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "c9680e90",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "c97c0139",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "c9e6f938",
+      "correct_inputs": 1,
+      "test_inputs": 1,
+      "consistent_hypotheses": 1
+    },
+    {
+      "id": "c9f8e694",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "ca8de6ea",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "caa06a1f",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "cad67732",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "cb227835",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "cbded52d",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "cc9053aa",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "ccd554ac",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "cce03e0d",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "cd3c21df",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "cdecee7f",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "ce039d91",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "ce22a75a",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "ce4f8723",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "ce602527",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "ce8d95cc",
+      "correct_inputs": 1,
+      "test_inputs": 1,
+      "consistent_hypotheses": 1
+    },
+    {
+      "id": "ce9e57f2",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "cf133acc",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "cf5fd0ad",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "cf98881b",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "cfb2ce5a",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "d017b73f",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "d037b0a7",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "d06dbe63",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "d07ae81c",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "d0f5fe59",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "d10ecb37",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "d13f3404",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "d19f7514",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "d22278a0",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "d23f8c26",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "d255d7a7",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "d282b262",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "d2abd087",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "d2acf2cb",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "d304284e",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "d364b489",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "d37a1ef5",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "d406998b",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "d43fd935",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "d4469b4b",
+      "correct_inputs": 1,
+      "test_inputs": 2,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "d47aa2ff",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "d492a647",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "d4a91cb9",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "d4b1c2b1",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "d4c90558",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "d4f3cd78",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "d511f180",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "d56f2372",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "d5c634a2",
+      "correct_inputs": 0,
+      "test_inputs": 2,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "d5d6de2d",
+      "correct_inputs": 0,
+      "test_inputs": 2,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "d631b094",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "d6542281",
+      "correct_inputs": 0,
+      "test_inputs": 2,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "d687bc17",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "d6ad076f",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "d6e50e54",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "d749d46f",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "d753a70b",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "d89b689b",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "d8c310e9",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "d90796e8",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "d931c21c",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "d93c6891",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "d94c3b52",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "d968ffd4",
+      "correct_inputs": 0,
+      "test_inputs": 2,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "d9f24cd1",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "d9fac9be",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "da2b0fe3",
+      "correct_inputs": 0,
+      "test_inputs": 2,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "da6e95e5",
+      "correct_inputs": 0,
+      "test_inputs": 2,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "dae9d2b5",
+      "correct_inputs": 0,
+      "test_inputs": 2,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "db118e2a",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "db3e9e38",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "db615bd4",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "db7260a4",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "db93a21d",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "dbc1a6ce",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "dc1df850",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "dc2aa30b",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "dc2e9a9d",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "dc433765",
+      "correct_inputs": 0,
+      "test_inputs": 2,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "dc46ea44",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "dce56571",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "dd2401ed",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "ddf7fa4f",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "de1cd16c",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "de493100",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "ded97339",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "df8cc377",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "df978a02",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "df9fd884",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "e048c9ed",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "e0fb7511",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "e133d23d",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "e179c5f4",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "e1baa8a4",
+      "correct_inputs": 1,
+      "test_inputs": 1,
+      "consistent_hypotheses": 1
+    },
+    {
+      "id": "e1d2900e",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "e2092e0c",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "e21a174a",
+      "correct_inputs": 0,
+      "test_inputs": 2,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "e21d9049",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "e26a3af2",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "e345f17b",
+      "correct_inputs": 0,
+      "test_inputs": 2,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "e3497940",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "e39e9282",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "e3f79277",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "e3fe1151",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "e4075551",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "e40b9e2f",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "e41c6fd3",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "e45ef808",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "e4888269",
+      "correct_inputs": 0,
+      "test_inputs": 2,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "e48d4e1a",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "e4941b18",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "e5062a87",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "e509e548",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "e50d258f",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "e57337a4",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "e5790162",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "e5c44e8f",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "e619ca6e",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "e633a9e5",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "e6721834",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "e681b708",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "e69241bd",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "e6de6e8f",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "e729b7be",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "e73095fd",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "e734a0e8",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "e74e1818",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "e760a62e",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "e7639916",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "e76a88a6",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "e78887d1",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "e7a25a18",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "e7b06bea",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "e7dd8335",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "e84fef15",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "e8593010",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "e872b94a",
+      "correct_inputs": 1,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "e88171ec",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "e8dc4411",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "e9614598",
+      "correct_inputs": 0,
+      "test_inputs": 2,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "e98196ab",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "e99362f0",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "e9ac8c9e",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "e9afcf9a",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "e9b4f6fc",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "e9bb6954",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "e9c9d9a1",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "e9fc42f2",
+      "correct_inputs": 0,
+      "test_inputs": 2,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "ea32f347",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "ea786f4a",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "ea959feb",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "ea9794b1",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "eb281b96",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "eb5a1d5d",
+      "correct_inputs": 1,
+      "test_inputs": 1,
+      "consistent_hypotheses": 1
+    },
+    {
+      "id": "ec883f72",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "ecaa0ec1",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "ecb67b6d",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "ecdecbb3",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "ed36ccf7",
+      "correct_inputs": 1,
+      "test_inputs": 1,
+      "consistent_hypotheses": 8
+    },
+    {
+      "id": "ed74f2f2",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "ed98d772",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "edcc2ff0",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "ef135b50",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "ef26cbf6",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "f0100645",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "f0afb749",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "f0df5ff0",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "f0f8a26d",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "f15e1fac",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "f18ec8cc",
+      "correct_inputs": 0,
+      "test_inputs": 2,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "f1bcbc2c",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "f1cefba8",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "f21745ec",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "f25fbde4",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "f25ffba3",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "f2829549",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "f28a3cbb",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "f341894c",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "f35d900a",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "f3b10344",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "f3cdc58f",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "f3e14006",
+      "correct_inputs": 0,
+      "test_inputs": 2,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "f3e62deb",
+      "correct_inputs": 0,
+      "test_inputs": 2,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "f45f5ca7",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "f5aa3634",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "f5b8619d",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "f5c89df1",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "f76d97a5",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "f823c43c",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "f83cb3f6",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "f8a8fe49",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "f8b3ba0a",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "f8be4b64",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "f8c80d96",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "f8cc533f",
+      "correct_inputs": 0,
+      "test_inputs": 2,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "f8f52ecc",
+      "correct_inputs": 0,
+      "test_inputs": 2,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "f8ff0b80",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "f9012d9b",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "f9a67cb5",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "f9d67f8b",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "fafd9572",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "fafffa47",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "fb791726",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "fbf15a0b",
+      "correct_inputs": 0,
+      "test_inputs": 2,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "fc10701f",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "fc4aaf52",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "fc754716",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "fcb5c309",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "fcc82909",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "fd02da9e",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "fd096ab6",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "fd4b2b02",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "fe45cba4",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "fe9372f3",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "fea12743",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "feca6190",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "ff2825db",
+      "correct_inputs": 0,
+      "test_inputs": 2,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "ff28f65a",
+      "correct_inputs": 0,
+      "test_inputs": 3,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "ff72ca3e",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    },
+    {
+      "id": "ff805c23",
+      "correct_inputs": 0,
+      "test_inputs": 1,
+      "consistent_hypotheses": 0
+    }
+  ],
+  "solver_sha256": "574b3b9cba9c5b4638e7f7b2c953dc4766b2b20b10c0d080bd664d01aed55b3e",
+  "split": "../../_official_tools/ARC-AGI-2/data/training",
+  "allow_recolor": false,
+  "note": "Public data only. Not a Kaggle/private-leaderboard result."
+}

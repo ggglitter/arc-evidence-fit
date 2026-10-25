@@ -1,0 +1,7 @@
+{
+  "solver_sha256": "574b3b9cba9c5b4638e7f7b2c953dc4766b2b20b10c0d080bd664d01aed55b3e",
+  "frozen_at": "2026-10-25",
+  "protocol": "Freeze before any public evaluation. No tuning on public evaluation tasks. Synthetic tests passed 11/11.",
+  "dataset_archive_prefix": "arcprize-ARC-AGI-2-f3283f7",
+  "dataset_archive_sha256": "0be933fd8c35d2a88fc09b5fc0ec8f1d58c9bbef1e6db225b79658e2ed2f2619"
+}
